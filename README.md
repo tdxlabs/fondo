@@ -48,7 +48,7 @@ Fondo has four design goals:
 4. Decouple an address from the distributed system properties of the underlying
    storage
 
-These four design goals can be explained with the six following concepts.
+These four design goals can be explained with the five following concepts.
 
 ### Addressability
 
