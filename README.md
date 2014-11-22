@@ -118,8 +118,10 @@ You are currently reading the README for the Fondo specification.
 
 Other repositories include:
 
-* [fondo-riak][fondo-riak]: a Fondo implementation using [Riak][riak].
-* [fondo-s3][fondo-riak]: a Fondo implementation using [AWS S3][s3].
+* [fondo-clj-riak][fondo-clj-riak]: a Fondo implementation using Clojure and
+  [Riak][riak].
+* [fondo-clj-s3][fondo-clj-s3]: a Fondo implementation using Clojure and
+  [AWS S3][s3].
 
 ## Related Work
 
@@ -177,7 +179,9 @@ such as gridlock, splintering, or design-by-committee. Time will tell.
 
 If you have licensing suggestions or want to get involved, please get in touch.
 
-[fondo-riak]: https://github.com/tdxlabs/fondo-riak
+[fondo-clj-riak]: https://github.com/tdxlabs/fondo-clj-riak
+
+[fondo-clj-s3]: https://github.com/tdxlabs/fondo-clj-s3
 
 [glacier]: https://aws.amazon.com/glacier
 
