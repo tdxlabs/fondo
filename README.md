@@ -5,6 +5,30 @@ addressable data. It defines a layer for addressing data, providing a foundation
 for downstream functions such as data caching, transport, discovery, and
 computation. (The word "fondo" is Esperanto for "foundation".)
 
+## Target Audience
+
+Some feedback we've received includes comments such as "Fondo seems somewhat
+abstract." and questions such as "How would this help me?". The benefits section
+(below) outlines the advantages across four levels. Here we'd like to outline
+some use cases based on target audience:
+
+* If you (or your organization) publish data, you might be interested in better
+  ways to do so. The immutability, derivability, and addressability of Fondo
+  offer significant advantages.
+
+* If you (or your organization) ingest data, you may feel the pain of harvesting
+  and aggregating from various data sources. Fondo offers a simpler, more
+  resilient, strategy for ingesting data under modern, real-world network
+  conditions, including intermittently-connected data sources.
+
+* If you (or your organization) promote data discoverability, Fondo offers a
+  valuable foundation; data discoverability is significantly easier with
+  immutable data addressed by content rather than location.
+
+* If you (or your organization) care about archiving data, Fondo's distributed
+  nature, use of immutable data, and flexibility with underlying storage
+  technology offer key advantages.
+
 ## Benefits
 
 Fondo makes working with data simpler and easier. Its benefits apply to tools,
