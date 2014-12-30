@@ -1,8 +1,8 @@
 # Fondo
 
-Fondo is a specification for distributed, immutable, derived, addressable
-data. It defines a layer for addressing data, providing a foundation for
-downstream functions such as data caching, transport, discovery, and
+Fondo is a (nascent) specification for distributed, immutable, derived,
+addressable data. It defines a layer for addressing data, providing a foundation
+for downstream functions such as data caching, transport, discovery, and
 computation. (The word "fondo" is Esperanto for "foundation".)
 
 ## Benefits
