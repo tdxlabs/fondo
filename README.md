@@ -114,14 +114,9 @@ participants will shape our direction and evolution.
 
 ## Fondo Repositories
 
-You are currently reading the README for the Fondo specification.
-
-Other repositories include:
-
-* [fondo-clj-riak][fondo-clj-riak]: a Fondo implementation using Clojure and
-  [Riak][riak].
-* [fondo-clj-s3][fondo-clj-s3]: a Fondo implementation using Clojure and
-  [AWS S3][s3].
+You are currently reading the README for the Fondo specification. You can
+[find other Fondo repositories on our TDX Labs Github page][tdx-fondo]. Over
+time, we'll publish Fondo implementations there.
 
 ## Related Work
 
@@ -179,10 +174,6 @@ such as gridlock, splintering, or design-by-committee. Time will tell.
 
 If you have licensing suggestions or want to get involved, please get in touch.
 
-[fondo-clj-riak]: https://github.com/tdxlabs/fondo-clj-riak
-
-[fondo-clj-s3]: https://github.com/tdxlabs/fondo-clj-s3
-
 [glacier]: https://aws.amazon.com/glacier
 
 [ipfs]: https://github.com/jbenet/ipfs
@@ -192,6 +183,8 @@ If you have licensing suggestions or want to get involved, please get in touch.
 [riak]: http://basho.com/riak
 
 [s3]: https://aws.amazon.com/s3
+
+[tdx-fondo]: https://github.com/tdxlabs?query=fondo
 
 [transit]: https://github.com/cognitect/transit-format
 
