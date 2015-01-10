@@ -126,15 +126,17 @@ require stricter guarantees, they can cache datasets locally.
 
 ## Community
 
-We welcome community involvement of all kinds, including suggestions,
-criticisms, ideas, and encouragement. We have a starting vision for the
-specification, including a focus on certain key problems that Fondo will
-solve. We want to transform how people address data; to that end, we hope to
-attract interest from a broad base of people and organizations. At the same
-time, we have a bias for action; we don't plan on running the project by
-committee. We intend to get a basic spec and reference implementation ready to
-kick things off. Over time, we will see who naturally gets involved; active
-participants will shape our direction and evolution.
+We have a [mailing list][1] and welcome community involvement of all kinds,
+including suggestions, criticisms, ideas, and encouragement. We have a
+starting vision for the specification, including a focus on certain key
+problems that Fondo will solve. We want to transform how people address data;
+to that end, we hope to attract interest from a broad base of people and
+organizations. At the same time, we have a bias for action; we don't plan on
+running the project by committee. We intend to get a basic spec and reference
+implementation ready to kick things off. Over time, we will see who naturally
+gets involved; active participants will shape our direction and evolution.
+
+[1]: https://groups.google.com/forum/#!managemembers/fondo-data
 
 ## Fondo Repositories
 
